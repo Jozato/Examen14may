@@ -10,7 +10,15 @@ Hicimos una prueba tipo test
 ## Primer apartado 2: Reloaded
 Hicimos una prueba más probadora
 
+## Expectativas cumplidas durante la prueba
+
+- [x] Un prueba
+- [x] Entenderla
+- [x] silencio
+- [ ] Pizza familiar
+- [ ] salir temprano, quien sabe ¯\_(ツ)_/¯
+
 ## Conclusión
-Ya me aburri pero me gusto hacer la pagina
+Ya me aburri pero me gusto hacer la pagina.
 # Gracias por ver 
 <img src="https://c.tenor.com/CarV7GDhiwQAAAAC/tenor.gif" width=200 >
